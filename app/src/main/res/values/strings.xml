@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShakeLight</string>
+    <string name="channel_name">Shake activ</string>
+    <string name="notif_title">Scutură pentru lanternă</string>
+    <string name="notif_text">Atinge ca să aprinzi/stingi</string>
+    <string name="notif_stop">Oprește</string>
+    <string name="started">ShakeLight pornit — scutură telefonul ca să aprinzi lanterna</string>
+</resources>
